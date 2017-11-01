@@ -14,6 +14,16 @@
 		EE171CE91FA99DDB00C1D7A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE171CE71FA99DDB00C1D7A2 /* LaunchScreen.storyboard */; };
 		EE171CF41FA99DDB00C1D7A2 /* class3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE171CF31FA99DDB00C1D7A2 /* class3Tests.swift */; };
 		EE171CFF1FA99DDB00C1D7A2 /* class3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE171CFE1FA99DDB00C1D7A2 /* class3UITests.swift */; };
+		EE171D111FA99FB400C1D7A2 /* もちこ３.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D0E1FA99FB300C1D7A2 /* もちこ３.png */; };
+		EE171D121FA99FB400C1D7A2 /* Asma.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D0F1FA99FB400C1D7A2 /* Asma.png */; };
+		EE171D131FA99FB400C1D7A2 /* ババ.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D101FA99FB400C1D7A2 /* ババ.png */; };
+		EE171D171FA9A14100C1D7A2 /* MentorFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE171D161FA9A14100C1D7A2 /* MentorFile.swift */; };
+		EE171D181FA9A1E800C1D7A2 /* Asma.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D0F1FA99FB400C1D7A2 /* Asma.png */; };
+		EE171D191FA9A1E900C1D7A2 /* Asma.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D0F1FA99FB400C1D7A2 /* Asma.png */; };
+		EE171D1A1FA9A1EC00C1D7A2 /* ババ.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D101FA99FB400C1D7A2 /* ババ.png */; };
+		EE171D1B1FA9A1ED00C1D7A2 /* ババ.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D101FA99FB400C1D7A2 /* ババ.png */; };
+		EE171D1C1FA9A1F000C1D7A2 /* もちこ３.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D0E1FA99FB300C1D7A2 /* もちこ３.png */; };
+		EE171D1D1FA9A1F100C1D7A2 /* もちこ３.png in Resources */ = {isa = PBXBuildFile; fileRef = EE171D0E1FA99FB300C1D7A2 /* もちこ３.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,10 @@
 		EE171CFA1FA99DDB00C1D7A2 /* class3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = class3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE171CFE1FA99DDB00C1D7A2 /* class3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = class3UITests.swift; sourceTree = "<group>"; };
 		EE171D001FA99DDB00C1D7A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE171D0E1FA99FB300C1D7A2 /* もちこ３.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "もちこ３.png"; sourceTree = "<group>"; };
+		EE171D0F1FA99FB400C1D7A2 /* Asma.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Asma.png; sourceTree = "<group>"; };
+		EE171D101FA99FB400C1D7A2 /* ババ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ババ.png"; sourceTree = "<group>"; };
+		EE171D161FA9A14100C1D7A2 /* MentorFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentorFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +111,16 @@
 		EE171CDD1FA99DDB00C1D7A2 /* class3 */ = {
 			isa = PBXGroup;
 			children = (
+				EE171D0F1FA99FB400C1D7A2 /* Asma.png */,
+				EE171D101FA99FB400C1D7A2 /* ババ.png */,
+				EE171D0E1FA99FB300C1D7A2 /* もちこ３.png */,
 				EE171CDE1FA99DDB00C1D7A2 /* AppDelegate.swift */,
 				EE171CE01FA99DDB00C1D7A2 /* ViewController.swift */,
 				EE171CE21FA99DDB00C1D7A2 /* Main.storyboard */,
 				EE171CE51FA99DDB00C1D7A2 /* Assets.xcassets */,
 				EE171CE71FA99DDB00C1D7A2 /* LaunchScreen.storyboard */,
 				EE171CEA1FA99DDB00C1D7A2 /* Info.plist */,
+				EE171D161FA9A14100C1D7A2 /* MentorFile.swift */,
 			);
 			path = class3;
 			sourceTree = "<group>";
@@ -232,9 +250,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE171D111FA99FB400C1D7A2 /* もちこ３.png in Resources */,
 				EE171CE91FA99DDB00C1D7A2 /* LaunchScreen.storyboard in Resources */,
+				EE171D121FA99FB400C1D7A2 /* Asma.png in Resources */,
 				EE171CE61FA99DDB00C1D7A2 /* Assets.xcassets in Resources */,
 				EE171CE41FA99DDB00C1D7A2 /* Main.storyboard in Resources */,
+				EE171D131FA99FB400C1D7A2 /* ババ.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +263,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE171D1C1FA9A1F000C1D7A2 /* もちこ３.png in Resources */,
+				EE171D191FA9A1E900C1D7A2 /* Asma.png in Resources */,
+				EE171D1A1FA9A1EC00C1D7A2 /* ババ.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +273,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE171D1D1FA9A1F100C1D7A2 /* もちこ３.png in Resources */,
+				EE171D181FA9A1E800C1D7A2 /* Asma.png in Resources */,
+				EE171D1B1FA9A1ED00C1D7A2 /* ババ.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE171D171FA9A14100C1D7A2 /* MentorFile.swift in Sources */,
 				EE171CE11FA99DDB00C1D7A2 /* ViewController.swift in Sources */,
 				EE171CDF1FA99DDB00C1D7A2 /* AppDelegate.swift in Sources */,
 			);
